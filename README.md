@@ -41,9 +41,12 @@ This background helps me think about AI the way businesses actually need it: use
 - Prepare for AI opportunities in the international job market, including Gulf countries and remote roles
 - In the longer term, explore a master's degree in Artificial Intelligence
 
-## Currently Building Towards
+## My Projects
 
-I am in the learning and building phase right now. My first portfolio projects will appear here as I complete them — starting small, documented properly, and growing in depth over time.
+I am in the learning and building phase — starting small, documented properly, and growing in depth over time. My first projects:
+
+- **[Neural Network from Scratch](https://github.com/muhammadahmad758/neural-network-from-scratch)** — my learning fork of Victor Zhou's NumPy-only neural network (MIT). I made training configurable (`--epochs`, `--learn-rate`), added a `--seed` option so runs are reproducible, and added a training accuracy report. The changes and what I learned from them are documented in that repo's README.
+- **[AI Learning Journey](https://github.com/muhammadahmad758/ai-learning-journey)** — where I track my journey in Artificial Intelligence, Python, Machine Learning, and practical AI projects.
 
 ---
 
