@@ -1,52 +1,29 @@
 # Hi, I'm Muhammad Ahmad Farooq 👋
 
-**Aspiring AI Developer** · BS Artificial Intelligence Student · Islamabad, Pakistan
+**Aspiring AI Developer** · BS Artificial Intelligence (5th semester), FUUAST Islamabad · Pakistan
 
-I am a 5th-semester **BS Artificial Intelligence** student at the **Federal Urdu University of Arts, Science and Technology (FUUAST), Islamabad**. I am learning to build practical AI projects, developing strong technical skills, and working towards a professional career in Artificial Intelligence.
-
-## About Me
-
-- 🎓 Studying BS Artificial Intelligence at FUUAST Islamabad (5th semester)
-- 🤖 Focused on moving beyond theory — towards practical AI applications, intelligent agents, and automation systems
-- 💼 Bring real-world business experience alongside my studies, from digital marketing, Meta Ads, and graphic design projects
-- 🌱 Honest about where I am: still learning, building my foundation step by step, and creating my portfolio from scratch
+I am learning to build practical AI projects — step by step, honestly, and in public. My background in business and digital marketing helps me think about AI the way businesses actually need it: useful and practical, not just technical.
 
 ## Currently Learning
 
 - **Programming:** Python, C++, Java and Object-Oriented Programming (OOP)
-- **AI Foundations:** Machine Learning and the mathematical foundations of AI, including Linear Algebra
-- **Core Coursework:** Computer Organization and Assembly Language (COAL), Digital Logic Design (DLD)
-- **Exploring:** AI tools, applications, and automation
-
-## Areas of Interest
-
-- AI Agents and Agentic AI Systems
-- Machine Learning and Applied AI
-- Generative AI and LLM-Based Applications
-- AI-Powered Business Automation
-- AI-Integrated Websites and Software Platforms
-- AI-Powered Robotics and Intelligent Devices
-
-## My Edge: AI + Business
-
-Alongside my studies, I have practical experience in **Meta Ads, digital marketing strategy, branding, and graphic design (Canva and Photoshop)** through my own business initiatives and client projects. I have also worked on a salon management platform concept combining bookings, customer management, point of sale, staff attendance, and AI-related functionality.
-
-This background helps me think about AI the way businesses actually need it: useful, practical, and commercially valuable — not just technically interesting.
-
-## My Goals
-
-- Build a strong foundation in AI, Python, Machine Learning, and software development
-- Create original, practical AI projects that demonstrate my abilities
-- Gain internship, research, and professional experience
-- Prepare for AI opportunities in the international job market, including Gulf countries and remote roles
-- In the longer term, explore a master's degree in Artificial Intelligence
+- **AI Foundations:** Machine Learning, Linear Algebra
+- **Coursework:** Computer Organization and Assembly Language (COAL), Digital Logic Design (DLD)
+- **Exploring:** AI Agents, Generative AI / LLM applications, AI-powered business automation
 
 ## My Projects
 
-I am in the learning and building phase — starting small, documented properly, and growing in depth over time. My first projects:
-
-- **[Neural Network from Scratch](https://github.com/muhammadahmad758/neural-network-from-scratch)** — my learning fork of Victor Zhou's NumPy-only neural network (MIT). I made training configurable (`--epochs`, `--learn-rate`), added a `--seed` option so runs are reproducible, and added a training accuracy report. The changes and what I learned from them are documented in that repo's README.
+- **[Neural Network from Scratch](https://github.com/muhammadahmad758/neural-network-from-scratch)** — my learning fork of Victor Zhou's NumPy-only neural network (MIT). I made training configurable (`--epochs`, `--learn-rate`, `--seed`) and added a training-accuracy report.
+- **[Chatbot (Ted)](https://github.com/muhammadahmad758/Chatbot)** — my learning fork of Karan Malik's NLP deep-learning chatbot (MIT). I added a `study_tips` intent and retrained the model so it can answer study questions.
 - **[AI Learning Journey](https://github.com/muhammadahmad758/ai-learning-journey)** — where I track my journey in Artificial Intelligence, Python, Machine Learning, and practical AI projects.
+
+## My Edge: AI + Business
+
+Practical experience in **Meta Ads, digital marketing, branding, and graphic design (Canva, Photoshop)** through my own business initiatives and client projects — plus a salon management platform concept combining bookings, customers, POS, staff attendance, and AI features.
+
+## My Goals
+
+Build a strong AI foundation and an original, practical portfolio; gain internship and research experience; and prepare for AI roles in Gulf countries and remote teams — with a master's in AI as a longer-term goal.
 
 ---
 
