@@ -15,6 +15,7 @@ I am learning to build practical AI projects — step by step, honestly, and in 
 
 - **[Neural Network from Scratch](https://github.com/muhammadahmad758/neural-network-from-scratch)** — my learning fork of Victor Zhou's NumPy-only neural network (MIT). I made training configurable (`--epochs`, `--learn-rate`, `--seed`) and added a training-accuracy report.
 - **[Chatbot (Ted)](https://github.com/muhammadahmad758/Chatbot)** — my learning fork of Karan Malik's NLP deep-learning chatbot (MIT). I added a `study_tips` intent and retrained the model so it can answer study questions.
+- **[micrograd](https://github.com/muhammadahmad758/micrograd)** — my learning fork of Andrej Karpathy's tiny autograd engine (MIT). I added a `tanh()` activation function to the `Value` class, with a test.
 - **[AI Learning Journey](https://github.com/muhammadahmad758/ai-learning-journey)** — where I track my journey in Artificial Intelligence, Python, Machine Learning, and practical AI projects.
 
 ## My Edge: AI + Business
