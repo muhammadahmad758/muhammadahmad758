@@ -13,6 +13,7 @@ Python · C++ · Java · NumPy · Git & GitHub
 | Project | About | My Contribution |
 | --- | --- | --- |
 | [StudySprint AI](https://github.com/muhammadahmad758/studysprint-ai) | Command-line study coach in pure Python — smart study plans, flashcards & quizzes, spaced repetition, readiness score | My first fully original project — designed and built from scratch, with 23 tests |
+| [Harness from Scratch](https://github.com/muhammadahmad758/harness-from-scratch) | Build a Claude Code–style AI agent harness in 10 steps — learning fork of Sur1ive's project (MIT) | Added a `max_rounds` safety guard to the agent loop — the s01 chapter's own Exercise 1 |
 | [Neural Network from Scratch](https://github.com/muhammadahmad758/neural-network-from-scratch) | NumPy-only neural network — learning fork of Victor Zhou's project (MIT) | Configurable training (`--epochs`, `--learn-rate`, `--seed`) and a training-accuracy report |
 | [Chatbot (Ted)](https://github.com/muhammadahmad758/Chatbot) | NLP deep-learning chatbot — learning fork of Karan Malik's project (MIT) | Added a `study_tips` intent and retrained the model |
 | [micrograd](https://github.com/muhammadahmad758/micrograd) | Tiny autograd engine — learning fork of Andrej Karpathy's project (MIT) | Added a `tanh()` activation function, with a test |
