@@ -13,6 +13,7 @@ Python · C++ · Java · NumPy · Git & GitHub
 | Project | About | My Contribution |
 | --- | --- | --- |
 | [StudySprint AI](https://github.com/muhammadahmad758/studysprint-ai) | Command-line study coach in pure Python — smart study plans, flashcards & quizzes, spaced repetition, readiness score | My first fully original project — designed and built from scratch, with 23 tests |
+| [File Organizer Agent](https://github.com/muhammadahmad758/file-organizer-agent) | A tiny Python agent that tidies messy folders — perceive → decide → act → log, with watch mode, dry-run, undo and custom rules.json | My second fully original project — a complete, safety-first agent with 20 tests |
 | [Harness from Scratch](https://github.com/muhammadahmad758/harness-from-scratch) | Build a Claude Code–style AI agent harness in 10 steps — learning fork of Sur1ive's project (MIT) | Added a `max_rounds` safety guard to the agent loop — the s01 chapter's own Exercise 1 |
 | [minbpe](https://github.com/muhammadahmad758/minbpe) | Minimal BPE tokenizer — how GPT models turn text into tokens; learning fork of Andrej Karpathy's project (MIT) | Added a Roman Urdu vs English demo comparing token counts for the same meaning |
 | [Neural Network from Scratch](https://github.com/muhammadahmad758/neural-network-from-scratch) | NumPy-only neural network — learning fork of Victor Zhou's project (MIT) | Configurable training (`--epochs`, `--learn-rate`, `--seed`) and a training-accuracy report |
