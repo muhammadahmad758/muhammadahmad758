@@ -20,6 +20,7 @@ Python · C++ · Java · NumPy · Git & GitHub
 | [Chatbot (Ted)](https://github.com/muhammadahmad758/Chatbot) | NLP deep-learning chatbot — learning fork of Karan Malik's project (MIT) | Added a `study_tips` intent and retrained the model |
 | [micrograd](https://github.com/muhammadahmad758/micrograd) | Tiny autograd engine — learning fork of Andrej Karpathy's project (MIT) | Added a `tanh()` activation function, with a test |
 | [Naive Bayes from Scratch](https://github.com/muhammadahmad758/naive-bayes) | Naive Bayes classifier written from scratch in Python — learning fork of gbroques' project (MIT) | Added a training-set accuracy report to the demo — and reported the honest result it revealed (4/10) |
+| [Machine Learning from Scratch](https://github.com/muhammadahmad758/Machine-Learning-from-Scratch) | ML algorithms from scratch in Python notebooks (logistic regression, K-Means, neural nets, RL) — learning fork of curiousily's project (MIT) | Added a `random_seed` option to the K-Means notebook so its colour palettes are reproducible |
 | [AI Learning Journey](https://github.com/muhammadahmad758/ai-learning-journey) | My AI / ML learning log | Projects, notes, and progress |
 
 ## Currently
