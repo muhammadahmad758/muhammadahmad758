@@ -23,6 +23,7 @@ Python · C++ · Java · NumPy · Git & GitHub
 | [Naive Bayes from Scratch](https://github.com/muhammadahmad758/naive-bayes) | Naive Bayes classifier written from scratch in Python — learning fork of gbroques' project (MIT) | Added a training-set accuracy report to the demo — and reported the honest result it revealed (4/10) |
 | [Machine Learning from Scratch](https://github.com/muhammadahmad758/Machine-Learning-from-Scratch) | ML algorithms from scratch in Python notebooks (logistic regression, K-Means, neural nets, RL) — learning fork of curiousily's project (MIT) | Added a `random_seed` option to the K-Means notebook so its colour palettes are reproducible |
 | [Regex Engine from Scratch](https://github.com/muhammadahmad758/Regex-Engine-From-Scratch) | A regex engine in pure Python — parser, Thompson NFA, subset construction, Hopcroft-minimized DFA; learning fork of NaxonRO's project (MIT) | Added a `search()` method to the DFA, so a pattern can be found anywhere in a text — full test suite (72 tests) passes |
+| [nanoGPT](https://github.com/muhammadahmad758/nanoGPT) | Karpathy's minimal GPT trainer — the transformer in one readable file; learning fork (MIT) | Added a `repetition_penalty` to `generate()` so sampling repeats itself less, wired through `sample.py` |
 | [AI Learning Journey](https://github.com/muhammadahmad758/ai-learning-journey) | My AI / ML learning log | Projects, notes, and progress |
 
 ## Currently
