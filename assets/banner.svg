@@ -1,0 +1,51 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Muhammad Ahmad Farooq — Aspiring AI Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#150826"/>
+      <stop offset="0.55" stop-color="#2e1065"/>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#e879f9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <circle cx="1050" cy="40" r="230" fill="url(#glow)"/>
+  <circle cx="120" cy="290" r="170" fill="url(#glow)" opacity="0.6"/>
+
+  <!-- neural network motif -->
+  <g stroke="#a78bfa" stroke-opacity="0.5" stroke-width="1.6">
+    <line x1="880" y1="70" x2="990" y2="45"/>
+    <line x1="880" y1="70" x2="985" y2="120"/>
+    <line x1="880" y1="150" x2="990" y2="45"/>
+    <line x1="880" y1="150" x2="985" y2="120"/>
+    <line x1="880" y1="150" x2="975" y2="200"/>
+    <line x1="880" y1="225" x2="975" y2="200"/>
+    <line x1="985" y1="120" x2="1095" y2="95"/>
+    <line x1="975" y1="200" x2="1095" y2="95"/>
+    <line x1="975" y1="200" x2="1090" y2="185"/>
+    <line x1="985" y1="120" x2="1090" y2="185"/>
+  </g>
+  <g fill="#c4b5fd">
+    <circle cx="880" cy="70" r="6"/>
+    <circle cx="880" cy="150" r="6"/>
+    <circle cx="880" cy="225" r="6"/>
+    <circle cx="990" cy="45" r="5" fill="#a78bfa"/>
+    <circle cx="985" cy="120" r="5" fill="#a78bfa"/>
+    <circle cx="975" cy="200" r="5" fill="#a78bfa"/>
+    <circle cx="1095" cy="95" r="7" fill="#e879f9"/>
+    <circle cx="1090" cy="185" r="7" fill="#e879f9"/>
+  </g>
+
+  <!-- text block -->
+  <text x="64" y="106" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="47" font-weight="700" fill="#ffffff" letter-spacing="0.5">Muhammad Ahmad Farooq</text>
+  <text x="66" y="146" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#ddd6fe">Aspiring AI Developer&#160;&#160;·&#160;&#160;BS Artificial Intelligence, FUUAST Islamabad</text>
+  <rect x="66" y="168" width="330" height="4" rx="2" fill="url(#accent)"/>
+  <text x="66" y="206" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#c4b5fd">Machine Learning&#160;&#160;·&#160;&#160;AI Agents&#160;&#160;·&#160;&#160;Automation&#160;&#160;·&#160;&#160;Building in Public</text>
+</svg>
