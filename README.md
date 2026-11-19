@@ -42,6 +42,7 @@ Small, readable open-source projects I study, understand, and improve with one r
 | [Regex Engine from Scratch](https://github.com/muhammadahmad758/Regex-Engine-From-Scratch) | A regex engine in pure Python — parser, Thompson NFA, subset construction, Hopcroft-minimized DFA; learning fork of NaxonRO's project (MIT) | Added a `search()` method to the DFA, so a pattern can be found anywhere in a text — full test suite (72 tests) passes |
 | [nanoGPT](https://github.com/muhammadahmad758/nanoGPT) | Karpathy's minimal GPT trainer — the transformer in one readable file; learning fork (MIT) | Added a `repetition_penalty` to `generate()` so sampling repeats itself less, wired through `sample.py` |
 | [LSTM from Scratch (NumPy)](https://github.com/muhammadahmad758/LSTM-Numpy) | An LSTM (CIFG variant) built from scratch in pure NumPy — a character-level language model on Shakespeare; learning fork of Youness Landa's project (MIT) | Fixed a real input-gate gradient bug in the backward pass and added the repo's first test — a gradient check all 11 parameters now pass |
+| [VectorFlow](https://github.com/muhammadahmad758/VectorFlow) | A tiny vector database with Linear, KD-Tree and LSH similarity indexes — the engine underneath RAG; learning fork of TechPertz's project (MIT) | Fixed a crash when adding chunks to an empty Linear index and added 2 regression tests (index tests 8/8 → 10/10) |
 | [AI Learning Journey](https://github.com/muhammadahmad758/ai-learning-journey) | My AI / ML learning log | Projects, notes, and progress |
 
 ## Currently
