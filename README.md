@@ -24,6 +24,7 @@
 | --- | --- | --- |
 | [StudySprint AI](https://github.com/muhammadahmad758/studysprint-ai) | Command-line study coach in pure Python — smart study plans, flashcards & quizzes, spaced repetition, readiness score | My first fully original project — designed and built from scratch, with 23 tests |
 | [File Organizer Agent](https://github.com/muhammadahmad758/file-organizer-agent) | A tiny Python agent that tidies messy folders — perceive → decide → act → log, with watch mode, dry-run, undo and custom rules.json | My second fully original project — a complete, safety-first agent with 20 tests |
+| [Focus Timer](https://github.com/muhammadahmad758/focus-timer) | A futuristic, glassmorphism-inspired Pomodoro desktop app — Python + Tkinter with an animated progress ring, productivity dashboard (charts, streaks, best day) and custom synthesized sounds, fully offline | An original project — the v2.0 "Midnight Glass" redesign: three-view interface, settings that persist, 29 tests |
 
 ## Learning Forks
 
